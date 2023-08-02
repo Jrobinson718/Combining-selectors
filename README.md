@@ -1,0 +1,1 @@
+Practicing the utilization of selectors by combining them in order to change the color and font size of the items in my list.
